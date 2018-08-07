@@ -7,8 +7,8 @@ instance2 = ec2.Instance('i-038ed8dcd5fd39518')
 
 #print(instance.report_status())
 
-instance1.stop()
-instance2.start()
+instance1.start()
+instance2.stop()
 
 #print (report_status())
 
