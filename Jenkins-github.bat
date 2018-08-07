@@ -6,8 +6,4 @@ echo hello.py
 
 dir
 
-
-
-
-
-echo .
+echo this is new github for slave 
