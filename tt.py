@@ -6,6 +6,7 @@ import time
 import smtplib
 from prettytable import PrettyTable
 
+
 F5_LTM = {
     'device_type': 'f5_ltm',
     'ip':   '10.1.0.2',
