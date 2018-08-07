@@ -2,4 +2,6 @@ echo hello world !!!! fine
 
 echo Where are you
 
-python hello.py
+echo hello.py
+
+dir
