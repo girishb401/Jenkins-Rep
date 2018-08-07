@@ -5,3 +5,9 @@ echo Where are you
 echo hello.py
 
 dir
+
+
+
+
+
+echo .
