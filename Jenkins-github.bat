@@ -1,8 +1,2 @@
-echo hello world
-
-echo =====================
-
-echo Where is accenture
-
-
-echo bengalore
+echo hello world !!!! fine
+echo from local pc
