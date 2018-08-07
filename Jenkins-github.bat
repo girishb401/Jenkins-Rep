@@ -1,5 +1,5 @@
 echo hello world
 
-=====================
+echo =====================
 
-Where is accenture
+echo Where is accenture
