@@ -10,7 +10,7 @@ instance2 = ec2.Instance('i-038ed8dcd5fd39518')
 instance1.stop()
 instance2.stop()
 
-#print (report_status
+#print (report_statusff
 
 
 
